@@ -1,0 +1,16 @@
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\bin\Debug\netcoreapp3.1\OpenWeather.exe
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\bin\Debug\netcoreapp3.1\OpenWeather.deps.json
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\bin\Debug\netcoreapp3.1\OpenWeather.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\bin\Debug\netcoreapp3.1\OpenWeather.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\bin\Debug\netcoreapp3.1\OpenWeather.dll
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\bin\Debug\netcoreapp3.1\OpenWeather.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.csproj.CopyComplete
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.dll
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\OpenWeather\OpenWeather\obj\Debug\netcoreapp3.1\OpenWeather.genruntimeconfig.cache
